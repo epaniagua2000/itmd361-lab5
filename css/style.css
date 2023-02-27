@@ -1,4 +1,37 @@
+* {
+  background-color: black;
+  text-align: center;
+  table-layout: fixed;
+  width: 100%;
+  font-family: Georgia, serif;
+  }  
+h1 {
+  font-size: 40px;
+  color: silver;
+  border: 1px solid white;
+}
 td, th {
-	border: 1px solid;
-  }
-  
+  color: blue;
+  padding: 10px;
+}
+td {
+  font-size: 25px;
+}
+th {
+  font-size: 32px;
+}
+.venus {
+  color: orange;
+}
+.earth {
+  color: lawngreen;
+}
+.jupiter {
+  color: lightyellow;
+}
+.saturn {
+  color: khaki;
+}
+.columns {
+  color: mediumpurple;
+}
